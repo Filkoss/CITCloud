@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "your_username";
-$password = "your_password";
-$dbname = "blog_db";
+$username = "novotny12";
+$password = "Filda942703";
+$dbname = "CITCloud";
 
 // Vytvoření připojení
 $conn = new mysqli($servername, $username, $password, $dbname);
